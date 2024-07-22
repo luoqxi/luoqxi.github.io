@@ -1,0 +1,21 @@
+baseURL = 'https://luoqxi.github.io/'
+languageCode = 'en-us'
+title = "Luoqxi's Github Site"
+theme = "coming-soon"
+
+[params]
+    title = ""
+    description = ""
+    favicon = "favicon.ico"
+    message = "To Be Continued"
+    release = "June 30, 2025"
+    background = "tree.mp4"
+
+socialIcons = [
+    {name = "email", url = "luoqxi@outlook.com"},
+    {name = "github", url = "https://github.com/luoqxi"},
+]
+
+[params.twitter]
+	enable = false
+	username = "luoqxi"
